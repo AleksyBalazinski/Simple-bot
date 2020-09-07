@@ -5,7 +5,9 @@
 /*Submit button: x = 290, y = 300
 Image: x = 395, y = 444
 Background: x = 1400, y = 700
-Textbox: x = 285, y = 225*/
+Textbox: x = 285, y = 225
+Functions: void Click(int, int), void PressKey(int, int), int CheckColor(int, int),
+int str_to_act(std::string, int) are declared in header_ex.h header file and defined in functions_ex.cpp.*/
 
 int main() 
 {
